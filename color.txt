@@ -4,10 +4,8 @@ blue
 yellow
 black
 pink
-<<<<<<< HEAD
 white
 001
-=======
 yellow
 white
->>>>>>> main
+
